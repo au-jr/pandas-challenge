@@ -76,3 +76,13 @@ These performance indicators should not be taken as an absolute truth, as there 
 ---
 
 # **References**
+
+1. Takkun. (2011, May 31). How do you create different variable names while in a loop? [duplicate] (cs95, Ed.) [Review of How do you create different variable names while in a loop? [duplicate]].Https://Stackoverflow.com/. https://stackoverflow.com/questions/6181935/
+how-do-you-create-different-variable-names-while-in-a-loop
+
+
+2. (n.d.). pandas.DataFrame.to_excel [Review of pandas.DataFrame.to_excel]. Https://Pandas.pydata.org/; NumFOCUS. Retrieved January 19, 2024, from https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_excel.html#pandas.DataFrame.to_excel
+
+3. Markdown Cheat Sheet | Markdown Guide. (n.d.). Www.markdownguide.org. Retrieved January 20, 2024, from https://www.markdownguide.org/cheat-sheet/#basic-syntax
+
+‌
